@@ -1,7 +1,7 @@
 # MircoSoft_Office_2016Mondo
 ```xml
 <Configuration>
-  <Add OfficeClientEdition="32" Channel="Current" AllowCdnFallback="True">
+  <Add OfficeClientEdition="64" Channel="Current" AllowCdnFallback="True">
     <Product ID="MondoVolume">
       <Language ID="zh-cn" />
       <Language ID="en-us" />
